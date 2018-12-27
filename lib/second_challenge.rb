@@ -7,10 +7,10 @@ def second_challenge
       :hero_friends => {[
         
         ]}
-      }, 
+      },
     :capulet => {
       #your key/value pairs here!
       }}
 
-  
+
 end
